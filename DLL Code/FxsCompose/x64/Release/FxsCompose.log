@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\admin\source\repos\FxsCompose\x64\Release\FxsCompose.lib and object C:\Users\admin\source\repos\FxsCompose\x64\Release\FxsCompose.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FxsCompose.vcxproj -> C:\Users\admin\source\repos\FxsCompose\x64\Release\FxsCompose.dll
